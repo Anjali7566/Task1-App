@@ -55,7 +55,7 @@ export default function HomeScreen() {
   return (
     <View style={styles.wrapper}>
       <View style={styles.container}>
-        <Text style={styles.header}>Doctor Appointment Form</Text>
+        <Text style={styles.header}>Doctor Appointment</Text>
         <View style={styles.formGroup}>
           <Text>Patient Name</Text>
           <TextInput
